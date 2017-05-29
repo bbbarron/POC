@@ -16,7 +16,8 @@ Thumbs.db
 # Compiled C++ files
 *.out
 
-# Application specific files
+# Application specific files(including Pycharm)
+.idea
 venv
 node_modules
 .sass-cache
